@@ -1,2 +1,2 @@
 # tunehub-project
-Tune Hub Music appln
+Tune Hub Music application
